@@ -11,3 +11,5 @@ This Final project will aim to build a fake news classifier with a difference. I
 > Text classification – Will assign categories to each news article based on its content.
 > 
 > Sentiment Analysis – Will be done on each article to determine the emotional tone behind each piece of given text
+
+![](/assets/fake_news.png)
