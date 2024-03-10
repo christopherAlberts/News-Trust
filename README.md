@@ -5,9 +5,7 @@ News Trust: Identifying trustworthy news with NLP
 
 ## NLP-based Fake News Detection and Sentiment Analysis in News Articles
 
-In recent year the rise of social media took the world by storm. It became increasingly easier to share one’s views and opinions on any matter. People end up getting bombarded with all kinds of information. The need to distinguish between what is accurate and what is fictional, is becoming a bigger and bigger priority. The Aim of this project is to find out if, through the use of Natural Language Processing, it’s possible to create a classifier that can, to a reasonable degree of accuracy predict weather a news statement is in fact true of false.
-
-This Final project will aim to build a fake news classifier with a difference. Instead of just indicating whether a news article is fake or not, it will also aim to do the following:
+In recent year the rise of social media took the world by storm. It became increasingly easier to share one’s views and opinions on any matter. People end up getting bombarded with all kinds of information. The need to distinguish between what is accurate and what is fictional, is becoming a bigger and bigger priority. The Aim of this project is to build a fake news classifier with a difference. Instead of just indicating whether a news article is fake or not, it will also aim to do the following:
 
 > News Percentage Accuracy Detection – More than just standard fake news detection, will also show the percentage accuracy.
 > 
